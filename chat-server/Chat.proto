@@ -1,0 +1,2 @@
+package ChatProto;
+option java_package = "com.wanxiang.chat.proto";
